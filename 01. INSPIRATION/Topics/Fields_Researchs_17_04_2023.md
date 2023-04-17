@@ -16,7 +16,7 @@ Origine: Logiciel de synthèse vocal développé par *Yamaha Corporation*
 
 Vocaloid = Vocal Android
 
-Propulsé par la figure de chanteuse robotique virtuelle *Hatsune Miku* (H.M), développée à l'origine par *Crypton Future Media*.
+Propulsé par la figure de chanteuse robotique virtuelle *Hatsune Miku* (H.M), développée à l'origine par *Crypton Future Media*, en 2007.
 
 La popularité d'H.M grandit en septembre 2007 sur le réseau social *Nico Nico Douga*.
 Les fans contribuent de manière multiple: sons, illustrations, animations etc.
