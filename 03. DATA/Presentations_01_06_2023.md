@@ -141,6 +141,6 @@ Crypton Future Media is guilty about surconsommation and abuse towards users bec
 
 - Permanant collection of merchchange every seasons and they create new events every 2 weeks to sell merch as well.
 - During one concert which was a tribute to the deceased composer Wowaka, they did a sponsored advise about a guitar.
-- They regulary organize outfits designs competition on social media (ex:Pixiv) where fans post new designs where they are not paid for. It's free works.
+- They regulary organize outfits designs competition on social media (ex:Pixiv) where fans post new designs where they are not paid for. It's free works. 
 
 The last point tend to have similarities with the process of the industry of idols in Japan, using similar mechanisms.
