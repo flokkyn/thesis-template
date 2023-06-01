@@ -22,7 +22,7 @@ My previous research question was:
 
 ***Is Hatsune Miku a social creative catalyst for her community?***
 
-As I said before, I think I'm gonna switch from Hatsune Miku to the globa Six Vocaloids of Crypton.
+As I said before, I think I'm gonna switch from Hatsune Miku to the global Six Vocaloids of Crypton.
 
 Also I think my previous question is probably a bit outdated. I don't know how to exactly call it.
 I'm more into a question of appropriation and reappropriation of these figures and how their mixity between corporation and public could have modeled them.
@@ -38,9 +38,9 @@ If I would write a problematic it would be more something like:
 
 http://henryjenkins.org/blog/2006/09/fan_fiction_as_critical_commen.html
 
-" This goes to the very nature of fan culture: fans write stories because they want to share insights they have into the characters, their relationships, and their worlds; they write stories because they want to entertain alternative interpretations or examine new possibilities which would otherwise not get expressed through the canonical material. "
+*" This goes to the very nature of fan culture: fans write stories because they want to share insights they have into the characters, their relationships, and their worlds; they write stories because they want to entertain alternative interpretations or examine new possibilities which would otherwise not get expressed through the canonical material. "*
 
-" The author makes a statement about the characters; the fan writer proposes alternative interpretations of the characters. "
+*" The author makes a statement about the characters; the fan writer proposes alternative interpretations of the characters. "*
 
 What was interesting to me in this text and these two quotes is the treatment of a same character between their creators and their public.
 A creator can put everything they want in their characters but finally, the character's reputation depends of the public.
@@ -112,7 +112,7 @@ Hatsune Miku + Hagane Miku comparison:
 ![Alt text](Pic_01_06_2023/haganemiku.jpg)
 
 b / Also was discussed the question of storytelling. Some songs/videos of vocaloid are related together to create stories/lore about them.
-It creates some "assigned roles". For example Len is a character who ofte dies in his songs.
+It creates some "assigned roles". For example Len is a character who often dies in his songs.
 
 4 / a / The question of representation through music was mentionned.
 
@@ -140,7 +140,7 @@ One other bought nothing because it's not necessary for her, and also very expen
 
 Crypton Future Media is guilty about surconsommation and abuse towards users because:
 
-- Permanant collection of merchchange every seasons and they create new events every 2 weeks to sell merch as well.
+- Permanant collection of merch change every seasons and they create new events every 2 weeks to sell merch as well.
 - During one concert which was a tribute to the deceased composer Wowaka, they did a sponsored advise about a guitar.
 - They regulary organize outfits designs competition on social media (ex:Pixiv) where fans post new designs where they are not paid for. It's free works. 
 
