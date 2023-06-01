@@ -148,7 +148,7 @@ The last point tend to have similarities with the process of the industry of ido
 
 
 
-**Retour professeurs:**
+## Retour professeurs:
 - Ne pas parler de "mes interviewees" mais plutôt les interlocuteurs
 - Se poser la question de ne parler qu'à des occidentaux, si je ne peux pas voir pour parler avec d'autres communautés. La vision des occidentaux sur le Japon.
 - Mettre au début plus en avant la relation fandom / Vocaloids, industrie de l'idol au Japon et comment l'entreprise fonctionne etc
