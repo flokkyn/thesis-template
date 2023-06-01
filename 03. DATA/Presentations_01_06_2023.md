@@ -13,6 +13,7 @@ I think I'm gonna work on their 6 more known figures (including Hatsune Miku), a
 
 The big Six: Hatsune Miku, Rin Kagamine, Len Kagamine, Megurine Luka, Meiko Hakine and Kaito (he is the lonely one who doesn't have family name).
 A picture of them:
+
 ![Alt text](Pic_01_06_2023/sixcryptons.png)
 
 **Research question**
