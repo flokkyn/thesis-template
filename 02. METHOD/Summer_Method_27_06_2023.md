@@ -71,7 +71,7 @@ Pour les deux premiers points, ce sont des pistes qui devraient être poursuivie
 Etant également dans mes références, j'aimerais la questionner au sujet des love dolls et du rapport humain/image fictive (bien que dans son cas il s'agisse d'objets réels et non pas 2D).
 
 
-- J'aimerais également interviewer Akihito Kondo qui est un homme japonais de la quarantaine qui a épousé Hatsune Miku, demander des conseils pour le faire en évitant que cela tourne à un aspect bête de foire. Ce qui m'intéresse de sa vision de son mariage est qu'il dit qu'il n'a pas marié Hatsune Miku même mais le concept d'elle présent chez lui. Je me demande si Agnès Giard pourrait m'aider côté barrière de la langue.
+- J'aimerais également interviewer Akihito Kondo qui est un homme japonais de la quarantaine qui a épousé Hatsune Miku, demander des conseils pour le faire en évitant que cela tourne à un aspect bête de foire. Ce qui m'intéresse de sa vision de son mariage est qu'il dit qu'il n'a pas marié Hatsune Miku même, mais le concept d'elle présent chez lui. Je me demande si Agnès Giard pourrait m'aider côté barrière de la langue.
 
 - Poursuivre mon enquête sur Nico Nico Douga. Site d'essort d'Hatsune Miku. Quelques éléments déjà trouvés.
 
@@ -133,3 +133,20 @@ Idols and Celebrity in Japanese Media Culture - Patrick W. Galbraith and Jason G
 Culture participative - Une conversation sur la jeunesse, l'éducation et l'action dans un monde connecté. - Henry Jenkins, Mizuko Ito and Danah Boyd
 
 Idoru - William Gibson
+
+
+## Retour professeur
+
+Liste de ref/contacts:
+
+https://spectrum.ieee.org/the-uncanny-valley
+
+https://repositorio.ul.pt/bitstream/10451/29437/2/ULFBA_C_v5_iss9_p98-114.pdf
+
+https://repositorio.ul.pt/bitstream/10451/12237/2/ULFBA_PER_CROMA_N3_ANA%20MATILDE%20DE%20SOUSA.pdf
+
+https://www.heta.moe/
+
+https://www.heta.moe/publications
+
+https://fr.scribd.com/document/453800953/Mori-Masahiro-The-Buddha-in-the-robot-a-robot-engineers-thoughts-on-science-and-religion-2005-Kosei-pdf
