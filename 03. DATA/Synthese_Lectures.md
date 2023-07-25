@@ -37,11 +37,11 @@ Ce sont des coquilles vides, les critiquer sur leurs choix semblent difficiles, 
 
 #### Social
 
-- Être fan, c'est avoir suffisamment de savoir pour le partager aux autres et typquement communiquer.
+- Être fan, c'est avoir suffisamment de savoir pour le partager aux autres et typiquement communiquer.
 
 - Être fan serait du paraître. Se faire reconnaître. Construire un ensemble de qualités à échanger.
 
-- ACheter pour être notice (l'état + le sujet d'admiration)
+- Acheter pour être notice (l'état + le sujet d'admiration)
 
 - Les fans ont le pouvoir de renverser la possession du sujet (chanteur) => c'est eux qui dictent ce qu'ils veulent entendre.
 
