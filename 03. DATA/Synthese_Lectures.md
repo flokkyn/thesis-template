@@ -30,7 +30,7 @@ Le fan devient un contenu et ça joue un rôle dans son appréciation personnell
 
 #### Commercial
 
-- Padoxe de la pop = Les chansons / groupes ont du succès, alors la critique du trop commercial apparaît. Cela vaut-il pour les vocaloids?
+- Paradoxe de la pop = Les chansons / groupes ont du succès, alors la critique du trop commercial apparaît. Cela vaut-il pour les vocaloids?
 Ce sont des coquilles vides, les critiquer sur leurs choix semblent difficiles, et pourtant succès commercial.
 
 - Les fans achètent des cadeaux mais ne s'inscrivent pas dans un rapport de donner/recevoir habituel (Marcel Mauss). Acheter est en soit une consécration même s'il y a le souhait de se faire notice?
