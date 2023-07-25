@@ -39,7 +39,7 @@ Cet exemple marche aussi avec l'industrie des Idols. Il y existe des dizaines et
 
 ## Prochainemment
 
-Je vais interviewer HETA-MOE:
+Je vais essayer d'interviewer HETA-MOE:
 - Lui demander si elle s'identifie à ces personnages. Dans quel dimension?
 - Des personnages lui seraient ils plus chers que d'autres?
 - A quel moment rentre-t-on dans l'intimité avec eux? Quelle est la limite entre consommation et relation? Aucune? Ligne floue?
