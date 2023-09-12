@@ -57,7 +57,7 @@ Parmis elles, 1 recheck même régulièrement pour pouvoir rechanter les musique
 
 - 1 personne check quand il y a un clip pour comprendre ce dernier.
 
-A noter que certains lyrics sont parfois incluses directement dans les chansons.
+A noter que certains lyrics sont parfois inclus directement dans les chansons.
 
 **Durée préférée et ses raisons**
 
@@ -67,7 +67,7 @@ A noter que certains lyrics sont parfois incluses directement dans les chansons.
 
 - 4 n'ont pas de préférence.
 
-- Il est régulièrement revenu que les chansons en dessous de 2min c'était des chansons dans lesquelles on n'avait pas le temps de s'acclimater dans l'ambiance. Elles étaient souvent rythmée à cette longueur. 5 min et + sont des chansons qui demanderaient plus d'efforts. Cela demande une certaine concentration. Aux alentours de 3min serait parfait pour s'acclimater et vivre une forme d'expérience.
+- Il est régulièrement revenu que les chansons en dessous de 2min étaient des chansons dans lesquelles on n'avait pas le temps de s'acclimater dans l'ambiance. Elles étaient souvent rythmées à cette longueur. 5 min et + sont des chansons qui demanderaient plus d'efforts. Cela demande une certaine concentration. Aux alentours de 3min serait parfait pour s'acclimater et vivre une forme d'expérience.
 Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaient car elles étaient généralement pensées pour la chanson.
 
 **Titre musicaux importants au niveau de l'écoute et combien de fois sont elles revenues en fonction de I:**
@@ -127,7 +127,7 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 - 100% des participant.es n'ont jamais un % de visionnage supérieur à celui de l'écoute
 
-- 3 personnes déclarent regarder très peu les clips. 5 en regarde assez fréquemment. 6 regardent occasionnellement (**TRES IMPORTANT:** L'occasionnel peut néanmoins être régulier dans sa manière d'être. Une personne me dit regarder une fois par mois, ce qui est occasionnel mais c'est un événement qui a lieu chaque mois.)
+- 3 personnes déclarent regarder très peu les clips. 5 en regardent assez fréquemment. 6 regardent occasionnellement (**TRES IMPORTANT:** L'occasionnel peut néanmoins être régulier dans sa manière d'être. Une personne me dit regarder une fois par mois, ce qui est occasionnel mais c'est un événement qui a lieu chaque mois.)
 
 - 3 personnes déclarent regarder à 50/50.
 1 personne déclare regarder à 65/35.
@@ -234,11 +234,11 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 - 2/12 ont fait mention de photoshoot (en général les cosplayers en pratiquent régulièrement. Peut-être que c'est plus mais que ça n'a pas été mentionné)
 
-- 1/12 se réunt quelques fois par an avec d'autres cosplayers pour tourner des vidéos (cosplay, jouer persos)
+- 1/12 se réunit quelques fois par an avec d'autres cosplayers pour tourner des vidéos (cosplay, jouer persos)
 
 - 1/12 tourne des vidéos make up vocaloid
 
-- 3/12 pratiquent chez elle/pour le plaisir (dessin, jeuc vidéos etc)
+- 3/12 pratiquent chez elle/pour le plaisir (dessin, jeux vidéos etc)
 
 -1/12 se rend en concert (en cosplay)
 

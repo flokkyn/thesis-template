@@ -61,7 +61,11 @@ https://www.academia.edu/9431519/Virtual_Idol_Hatsune_Miku_New_Auratic_Experienc
 
 *Youtube:*
 
-- Hatsune Miku Explaining The Impact of a Virtual Idol, Myles with a Y (non-academic resource)
+- Explaining Vocaloid in under 3 minutes, Rice, 2021 (non-academic resource)
+
+https://youtu.be/GODXMGAMpVc?si=GYbBxEQqy5Wt148f
+
+- Hatsune Miku Explaining The Impact of a Virtual Idol, Myles with a Y, 2016 (non-academic resource)
 
 https://www.youtube.com/watch?v=GGT_rBkGDvQ
 
