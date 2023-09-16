@@ -29,7 +29,6 @@ La personne la plus âgée avait 24 ans et la plus jeune 18 ans.
 
 
 
-## Fréquences / Occasions
 ### Ecoute
 **Fréquence écoute chansons:**
 
@@ -277,12 +276,7 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 
-
-
-
-
-
-## Questions qu'ils restent, à adapter dans les réponses qualitatives plutôt que quantitatives
+## Qualitatif (à faire)
 
 ### Type Ecoute
 
