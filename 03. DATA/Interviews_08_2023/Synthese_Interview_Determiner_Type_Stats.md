@@ -59,6 +59,21 @@ Parmis elles, 1 recheck même régulièrement pour pouvoir rechanter les musique
 
 A noter que certains lyrics sont parfois inclus directement dans les chansons.
 
+**Préférence mélodique ou lyrics:**
+
+- La question de la barrière de la langue a été rapporté 7 fois.
+
+- 10 personnes écoutent la mélodie et checkent les lyrics par la suite en général si cela leur plaît. Donc on peut noter pour un intérêt de la compréhension du texte qui suit l'appréciation musicale. (= 2/3)
+
+- 1 personne préférait les lyrics au Secondaire 1 pour l'aspect théorie de l'univers, en discuter avec autrui pour enquêter. Préfère la mélodie aujourd'hui.
+
+- 1 personne préfère les mélodies.
+
+- 1 persone préfèrent les lyrics.
+
+- 2 personnes ont un intérêt égal.
+
+
 **Durée préférée et ses raisons**
 
 - En général les chansons aux alentours de 3min ont été cité (6 personnes).
@@ -262,27 +277,14 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 
-*Entre la mélodie et les lyrics, quel aspect vous importe-t-il le plus entre les deux ? Ou est-ce égal ? Une autre possibilité que celles citées?*
-
-- La question de la barrière de la langue a été rapporté 7 fois.
-
-- 10 personnes écoutent la mélodie et checkent les lyrics par la suite en général si cela leur plaît. Donc on peut noter pour un intérêt de la compréhension du texte qui suit l'appréciation musicale. (= 2/3)
-
-- 1 personne préférait les lyrics au Secondaire 1 pour l'aspect théorie de l'univers, en discuter avec autrui pour enquêter. Préfère la mélodie aujourd'hui.
-
-- 1 personne préfère les mélodies.
-
-- 1 persone préfèrent les lyrics.
-
-- 2 personnes ont un intérêt égal.
 
 
 
 
 
+## Questions qu'ils restent, à adapter dans les réponses qualitatives plutôt que quantitatives
 
-
-
+### Type Ecoute
 
 *Ecoutez vous les chansons citées à la question précédente, à des périodes précises ? Des états précis? Si oui, citez-les.*
 
@@ -300,7 +302,7 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 ### Type Visionnage :
-#### Importance du clip
+
 
 
 - Pensez-vous qu’un format série impacte différemment la vision que l’on peut avoir de ses personnages ? Cela pose-t-il des bases, cela enrichit-il leurs personnages différemment des formats uniques ?
@@ -314,13 +316,6 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 ### Type Interprétation :
-- Quelles sont vos pratiques annexes à l’écoute et au visionnage des chansons Vocaloid et à quelle fréquence les pratiquez-vous ?
-
-- Faites-vous cela seul.e ou en groupe avec d’autres personnes ? Les deux ?
-
-- À quelles occasions pratiquez-vous vos activités ?
-
-- Partagez-vous les résultats de ces pratiques ? Si oui, avec qui ? Comment ? Où ? Si non, y a-t-il une raison particulière à ne pas partager cela ?
 
 - Pensez-vous que le succès des Vocaloid repose sur la collectivité des pratiques fan-made ? Si non, en quoi cela reposerait-il selon vous ?
 
@@ -332,5 +327,4 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 
-### Final
-Ici vous pouvez indiquer s’il y a des points que vous avez mal compris, si vous vouliez en critiquer d’autres. Vous pouvez aborder des sujets qui n’ont pas été mis en lumière si vous le souhaitez. Zone libre !
+
