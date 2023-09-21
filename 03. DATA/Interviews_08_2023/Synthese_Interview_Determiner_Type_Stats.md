@@ -278,21 +278,6 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 ## Qualitatif (à faire)
 
-### Type Ecoute
-
-*Ecoutez vous les chansons citées à la question précédente, à des périodes précises ? Des états précis? Si oui, citez-les.*
-
-
-
-- Vous êtes-vous déjà identifié à ce qu’incarnait ses personnages au travers de ces musiques (au travers des paroles et de la mélodie mais pas du visionnage) ?
-
-- Dépendant de votre réponse à la question précédente, seriez-vous capable de me dire à quelle période de votre vie cela a-t-il pu vous faire écho ?
-
-- Cela résonne-t-il encore en vous à ce jour ? Décrivez comment cela peut-il encore vous affecter, ou qu’est-ce qui fait que cela ne vous affecte plus.
-
-- Dernièrement, pensez-vous que ces paroles/mélodies vous accompagneront encore dans le futur ? Si oui, pourquoi et à quel degré. Dans le cas contraire, pourquoi cela s’arrêterait-il ?
-
-
 
 
 ### Type Visionnage :
