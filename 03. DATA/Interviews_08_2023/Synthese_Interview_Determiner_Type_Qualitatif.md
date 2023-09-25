@@ -42,7 +42,7 @@ Chanson qui traite de la persévérance, du doute et de la progression. Que chac
 
 Elle dit qu'elle cherchait des histoires différentes d'elles, dans des univers lointain de la réalité afin de s'évader car elle n'était qu'une adolescente au collège (le fait que cela venait d'une autre culture que la sienne était aussi un facteur d'évasion). De plus, comme ces chansons étaient écrites par des gens pas reconnus, elle avait la sensation que le contenu lui était plus accessible.
 
-**Léonie**
+**Pomelo**
 
 Elle expérimente des épisodes cathartiques lorsqu'elle est en période d'examens ou de stress car à ces périodes ci, elle dit écouter des chansons qui lui disent de tout envoyer valser.
 
@@ -95,5 +95,53 @@ Voici une citation de ses propos qui résume l'opinion d'une majorité de partic
 *" Même si j'ai beaucoup changé et 'grandit' il y a des choses qui ne nous quittent pas! "*
 
 ## Visionnage
+
+### Préférence format série ou unique
+
+***Les opinions divergent sur cette question. Quatre personnes ont mentionné leur rôle d'acteur ou de coquilles vides, s'en fichant alors du format de chansons adoptés puisque l'effet ressenti devenait alors le même. Deux personnes ont mentionné préférer des histoires plus courtes pour ne pas se casser la tête. Trois personnes préfèrent les formats séries car celles-ci permetteraient de mieux développer les personnages et leurs univers.***
+
+**So**
+
+Il préfère les formats qu'il a appelé "One Shot" car il n'a pas la foi de s'intéresser à des univers complexe au sein des Vocaloid, sinon il lirait un livre ou regarderait un film.
+
+**Rhita**
+
+Pour elle cela dépend des gens et de leur relation aux oeuvres mais si l'on veut vraiment s'intéresser à un personnage, il faut aller plus loin que la chanson qui se suffit à elle-même et toute personne qui veut s'y intéresser le fera naturellement.
+
+**Pauline**
+
+*" Les personnages dans les séries n'ont pas l'air d'être eux mais des personnages alternatifs d'eux-mêmes. "*
+
+**Chisamiki**
+
+Elle dit être passionnée par The Story of The Evil - Rin&Len Kagamine, qui est un format série dans un style médiévale. Mais elle mentionne qu'en général, les formats uniques sont là pour parler de la société actuelle.
+
+
+**Kandata**
+
+*" Cela diffère car chaque personnage a sa vision, son expérience, ses choix... Qui le mène à certaines situations. Cela peut créer un lien, une identification à celui-ci pour le 'spectateur'."*
+
+
+### Un bon clip et celui de rêve
+
+**Rhita**
+
+Ce qu'elle a imaginé lorsque je lui ai demandé quel serait son clip de rêve serait celui d'un duo Hatsune Miku et Megurine Luka, dans une chanson qui serait misandre avec une esthétique à la *Yandere Simulator* (jeu dans lequel on joue une sociopathe lycéenne amoureuse d'un garçon et qui tue toutes les filles qui seraient ses potentielles rivales) où elles tueraient les hommes et d'une durée de 3min50.
+
+**Pauline**
+
+Elle dit qu'elle n'a pas élaboré tant de critères au visionnage d'un clip si ce n'est celui de rester dans la légalité: interdisant ce qui est sujet à l'inceste, la pédocriminalité etc.
+
+**Lyne**
+
+Elle dit que lorsqu'elle voit des graphismes tape à l'oeil de type "kawaii", elle sait d'avancer qu'elle va aimer. Si c'est viral sur TikTok elle est aussi susceptible de l'aimer.
+
+Dans son clip de rêve, l'esthétique serait rose et noir. Elle utiliserait les personnages d'Ena et Miku qui porteraient du Jirai Kei qui est un style vestimentaire nippon.
+
+
+**Chisamiki**
+
+Elle m'a décrit son projet de clip de rêve assez précisément.Miku serait en train de courir derrière un objectif à attendre pour symboliser l'espoir et de ne jamais abandonner. Avec sous message par exemple celui de vouloir faire un métier et j'y arriverais malgré les embuscades. L'esthétique serait dans celui de Wowaka en noir et blanc avec des tâches de couleurs qui arriveraient vers la fin.
+
 
 ## Interprétation
