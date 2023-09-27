@@ -69,6 +69,10 @@ https://youtu.be/GODXMGAMpVc?si=GYbBxEQqy5Wt148f
 
 https://www.youtube.com/watch?v=GGT_rBkGDvQ
 
+- Introduction to Making Vocaloid Music for Beginners in Vocaloid4, Chris' Tutorials, 2015 (non-academic resource)
+
+https://youtu.be/tlkH7Rj4Y7A?si=6UMsZ6knIlOBGbLC
+
 - The Open Source Girl Who Conquered the World/Miku/ Design@Large with Tara Knight, 2018
 
 https://youtu.be/ET1QGdDx1EM?si=0PpfRXMKQKZIjTva
