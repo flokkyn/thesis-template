@@ -4,7 +4,7 @@
 
 - FANNING THE FLAMES, Fans and Consumer Culture in Contemporary Japan, William W. Kelly, 2003
 
-- IDOLS AND CELEBRITY IN JAPANESE MEDIA CULTURE, Patrick W. Galbraith + Jason G. Karlin, 2012 (à lire)
+- IDOLS AND CELEBRITY IN JAPANESE MEDIA CULTURE, Patrick W. Galbraith + Jason G. Karlin, 2012
 
 - Spreadable Media, Henry Jenkins, Sam Ford, Joshua Green, 2013 (à lire)
 
