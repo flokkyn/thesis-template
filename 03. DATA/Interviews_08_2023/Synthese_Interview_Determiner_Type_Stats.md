@@ -280,19 +280,6 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 
 
-### Type Visionnage :
-
-
-
-- Pensez-vous qu’un format série impacte différemment la vision que l’on peut avoir de ses personnages ? Cela pose-t-il des bases, cela enrichit-il leurs personnages différemment des formats uniques ?
-
-- Est-ce qu’à force de visionnages vous avez développé des critères esthétiques qui vous sont propres ? C’est-à-dire des qualités qui font à vos yeux un bon clip, ou au contraire des erreurs qui vous semblerez rédhibitoires. Pourriez-vous les décrire ?
-
-- Compte tenu de la question précédente, pourriez-vous me dire, selon vous, à quoi ressemblerait votre clip idéal si vous pouviez le faire en un claquement de doigts ? Sa thématique, son ambiance, sa durée, son design etc.
-
-
-
-
 
 ### Type Interprétation :
 
