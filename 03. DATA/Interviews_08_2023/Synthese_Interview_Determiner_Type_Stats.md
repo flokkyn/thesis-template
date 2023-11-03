@@ -1,5 +1,5 @@
 ### Synthèse Interview Determine Type Statistiques
-
+ 
 ## Données ethnologiques
 - Il y a eu **15 participant.es** au questionnaire.
 
