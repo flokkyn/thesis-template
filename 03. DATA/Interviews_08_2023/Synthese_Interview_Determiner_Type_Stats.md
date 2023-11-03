@@ -289,7 +289,7 @@ Néanmoins, 1 personne a dit que toutes les longueurs de chansons lui convenaien
 
 - Dans la lignée de la question précédente, vous êtes-vous déjà retrouvé face à des créations d’autrui, qu’elles soient fan-made ou professionnelles, qui ont pu vous mettre mal à l’aise ? Si oui, seriez-vous capable de me les citer et expliquer en quoi elles formaient un problème.
 
-- Lorsque vous incarnez, écrivez, chantez, redessinez les contours sur les personnages qui vous intéressent, que cherchez-vous à transmettre ? Qu’est-ce que cela vous permet d’exprimer pour vous? Si vos travaux devaient toucher les autres, que chercheriez-vous à communiquer ?
+- Lorsque vous incarnez, écrivez, chantez, redessinez les contours sur les personnages qui vous intéressent, que cherchez-vous à transmettre ? Qu’est-ce que cela vous permet d’exprimer pour vous? Si vos travaux devaient toucher les autres, que chercheriez-vous à communiquer?
 
 
 
